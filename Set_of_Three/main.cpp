@@ -85,32 +85,32 @@ bool Countdown::Compare(int T, int a, int b) {
   
 	if (Addition(a, b) == T) {
 		outfile << "Solved " << T << endl;
-    outfile << "{ " << a << " , " << b << " , "<< c<<" }"<< endl;
+    outfile << "{ " << a << " , " << b <<" }"<< endl;
 		return true;
 	}
 	else if (Multiplication(a, b) == T) {
 		outfile << "Solved " << T << endl;
-    outfile << "{ " << a << " , " << b << " , "<< c<<" }"<< endl;
+    outfile << "{ " << a << " , " << b <<" }"<< endl;
 		return true;
 	}
 	else if (Division(a, b) == T) {
 		outfile << "Solved " << T << endl;
-    outfile << "{ " << a << " , " << b << " , "<< c<<" }"<< endl;
+    outfile << "{ " << a << " , " << b <<" }"<< endl;
 		return true;
 	}
 	else if (Subtraction(a, b) == T) {
 		outfile << "Solved " << T << endl;
-    outfile << "{ " << a << " , " << b << " , "<< c<<" }"<< endl;
+    outfile << "{ " << a << " , " << b <<" }"<< endl;
 		return true;
 	}
   else if (Exponentiation1(a, b) == T) {
 		outfile << "Solved " << T << endl;
-    outfile << "{ " << a << " , " << b << " , "<< c<<" }"<< endl;
+    outfile << "{ " << a << " , " << b <<" }"<< endl;
 		return true;
 	}
   else if (Exponentiation2(a, b) == T) {
 		outfile << "Solved " << T << endl;
-    outfile << "{ " << a << " , " << b << " , "<< c<<" }"<< endl;
+    outfile << "{ " << a << " , " << b <<" }"<< endl;
 		return true;
 	}
 	else {
@@ -721,7 +721,7 @@ int main() {
     while (!infile.eof()) {
 		  infile>>a>>b>>c;
     
-      for(int x=101;x<=999; x++){
+      for(int x=101;x<=102; x++){
         C.Compare(x,a,b,c);
       }
 		}
