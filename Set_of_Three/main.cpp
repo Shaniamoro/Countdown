@@ -47,7 +47,7 @@ int Countdown::Division(int a, int b) {
     div = a/1;
     }
   } else if (a < b){
-      if( b!=0 && b% a == 0) {
+      if( a!=0 && b% a == 0) {
 				div = b / a;
 			} else {
         div=b/1;
@@ -721,9 +721,9 @@ int main() {
     while (!infile.eof()) {
 		  infile>>a>>b>>c;
     
-      for(int x=101;x<=102; x++){
-        C.Compare(x,a,b,c);
-      }
+      //for(int x=101;x<=102; x++){
+        C.Compare(101,a,b,c);
+      //}
 		}
 	}
 }
