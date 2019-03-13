@@ -72,6 +72,7 @@ double Countdown::Subtraction(int a, int b) {
 
 	return sub;
 }
+
 double Countdown::Exponentiation1(int a,int b ) {
 
   // use the pow function 
@@ -81,21 +82,22 @@ double Countdown::Exponentiation1(int a,int b ) {
     pow= pow* a;
     }
    return pow;
-  //  } else {
-  //   return a;
-  // }
+   } else {
+    return a;
+  }
 }
 
+
 double Countdown::Exponentiation2(int a,int b ) {
- // if (a<10000 && b < 10000){
+ if (a<10000 && b < 10000){
   int pow2 =b;
   for(int p=1; p<a;p++){
     pow2= pow2* b;
   }
   return pow2;
-  // } else {
-  //  return b;
-  // }
+  } else {
+   return b;
+  }
 }
 
 bool Countdown::Compare(int T, int a, int b) {
