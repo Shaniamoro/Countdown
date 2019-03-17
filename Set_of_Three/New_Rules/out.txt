@@ -1,0 +1,422 @@
+{ 1 , 2 , 3  }
+        Number Solved  :0
+{ 1 , 2 , 4  }
+        Number Solved  :0
+{ 1 , 2 , 5  }
+        Number Solved  :2
+{ 1 , 2 , 6  }
+        Number Solved  :3
+{ 1 , 2 , 7  }
+        Number Solved  :5
+{ 1 , 2 , 8  }
+        Number Solved  :5
+{ 1 , 2 , 9  }
+        Number Solved  :5
+{ 1 , 3 , 4  }
+        Number Solved  :3
+{ 1 , 3 , 5  }
+        Number Solved  :9
+{ 1 , 3 , 6  }
+        Number Solved  :9
+{ 1 , 3 , 7  }
+        Number Solved  :7
+{ 1 , 3 , 8  }
+        Number Solved  :6
+{ 1 , 3 , 9  }
+        Number Solved  :4
+{ 1 , 4 , 5  }
+        Number Solved  :6
+{ 1 , 4 , 6  }
+        Number Solved  :3
+{ 1 , 4 , 7  }
+        Number Solved  :1
+{ 1 , 4 , 8  }
+        Number Solved  :1
+{ 1 , 4 , 9  }
+        Number Solved  :1
+{ 1 , 5 , 6  }
+        Number Solved  :0
+{ 1 , 5 , 7  }
+        Number Solved  :0
+{ 1 , 5 , 8  }
+        Number Solved  :0
+{ 1 , 5 , 9  }
+        Number Solved  :0
+{ 1 , 6 , 7  }
+        Number Solved  :0
+{ 1 , 6 , 8  }
+        Number Solved  :0
+{ 1 , 6 , 9  }
+        Number Solved  :0
+{ 1 , 7 , 8  }
+        Number Solved  :0
+{ 1 , 7 , 9  }
+        Number Solved  :0
+{ 1 , 8 , 9  }
+        Number Solved  :0
+{ 2 , 3 , 4  }
+        Number Solved  :7
+{ 2 , 3 , 5  }
+        Number Solved  :11
+{ 2 , 3 , 6  }
+        Number Solved  :11
+{ 2 , 3 , 7  }
+        Number Solved  :12
+{ 2 , 3 , 8  }
+        Number Solved  :12
+{ 2 , 3 , 9  }
+        Number Solved  :9
+{ 2 , 4 , 5  }
+        Number Solved  :6
+{ 2 , 4 , 6  }
+        Number Solved  :4
+{ 2 , 4 , 7  }
+        Number Solved  :9
+{ 2 , 4 , 8  }
+        Number Solved  :5
+{ 2 , 4 , 9  }
+        Number Solved  :7
+{ 2 , 5 , 6  }
+        Number Solved  :11
+{ 2 , 5 , 7  }
+        Number Solved  :9
+{ 2 , 5 , 8  }
+        Number Solved  :8
+{ 2 , 5 , 9  }
+        Number Solved  :8
+{ 2 , 6 , 7  }
+        Number Solved  :9
+{ 2 , 6 , 8  }
+        Number Solved  :7
+{ 2 , 6 , 9  }
+        Number Solved  :9
+{ 2 , 7 , 8  }
+        Number Solved  :10
+{ 2 , 7 , 9  }
+        Number Solved  :10
+{ 2 , 8 , 9  }
+        Number Solved  :10
+{ 3 , 4 , 5  }
+        Number Solved  :14
+{ 3 , 4 , 6  }
+        Number Solved  :10
+{ 3 , 4 , 7  }
+        Number Solved  :6
+{ 3 , 4 , 8  }
+        Number Solved  :6
+{ 3 , 4 , 9  }
+        Number Solved  :7
+{ 3 , 5 , 6  }
+        Number Solved  :13
+{ 3 , 5 , 7  }
+        Number Solved  :13
+{ 3 , 5 , 8  }
+        Number Solved  :11
+{ 3 , 5 , 9  }
+        Number Solved  :11
+{ 3 , 6 , 7  }
+        Number Solved  :11
+{ 3 , 6 , 8  }
+        Number Solved  :11
+{ 3 , 6 , 9  }
+        Number Solved  :10
+{ 3 , 7 , 8  }
+        Number Solved  :7
+{ 3 , 7 , 9  }
+        Number Solved  :8
+{ 3 , 8 , 9  }
+        Number Solved  :7
+{ 4 , 5 , 6  }
+        Number Solved  :4
+{ 4 , 5 , 7  }
+        Number Solved  :6
+{ 4 , 5 , 8  }
+        Number Solved  :5
+{ 4 , 5 , 9  }
+        Number Solved  :5
+{ 4 , 6 , 7  }
+        Number Solved  :4
+{ 4 , 6 , 8  }
+        Number Solved  :4
+{ 4 , 6 , 9  }
+        Number Solved  :3
+{ 4 , 7 , 8  }
+        Number Solved  :3
+{ 4 , 7 , 9  }
+        Number Solved  :2
+{ 4 , 8 , 9  }
+        Number Solved  :4
+{ 5 , 6 , 7  }
+        Number Solved  :1
+{ 5 , 6 , 8  }
+        Number Solved  :4
+{ 5 , 6 , 9  }
+        Number Solved  :4
+{ 5 , 7 , 8  }
+        Number Solved  :3
+{ 5 , 7 , 9  }
+        Number Solved  :3
+{ 5 , 8 , 9  }
+        Number Solved  :4
+{ 6 , 7 , 8  }
+        Number Solved  :3
+{ 6 , 7 , 9  }
+        Number Solved  :4
+{ 6 , 8 , 9  }
+        Number Solved  :5
+{ 7 , 8 , 9  }
+        Number Solved  :5
+{ 1 , 1 , 2  }
+        Number Solved  :0
+{ 1 , 1 , 3  }
+        Number Solved  :0
+{ 1 , 1 , 4  }
+        Number Solved  :0
+{ 1 , 1 , 5  }
+        Number Solved  :0
+{ 1 , 1 , 6  }
+        Number Solved  :0
+{ 1 , 1 , 7  }
+        Number Solved  :1
+{ 1 , 1 , 8  }
+        Number Solved  :1
+{ 1 , 1 , 9  }
+        Number Solved  :1
+{ 1 , 1 , 10  }
+        Number Solved  :0
+{ 2 , 2 , 1  }
+        Number Solved  :0
+{ 2 , 2 , 3  }
+        Number Solved  :2
+{ 2 , 2 , 4  }
+        Number Solved  :1
+{ 2 , 2 , 5  }
+        Number Solved  :2
+{ 2 , 2 , 6  }
+        Number Solved  :3
+{ 2 , 2 , 7  }
+        Number Solved  :6
+{ 2 , 2 , 8  }
+        Number Solved  :5
+{ 2 , 2 , 9  }
+        Number Solved  :8
+{ 2 , 2 , 10  }
+        Number Solved  :6
+{ 3 , 3 , 1  }
+        Number Solved  :0
+{ 3 , 3 , 2  }
+        Number Solved  :5
+{ 3 , 3 , 4  }
+        Number Solved  :4
+{ 3 , 3 , 5  }
+        Number Solved  :10
+{ 3 , 3 , 6  }
+        Number Solved  :9
+{ 3 , 3 , 7  }
+        Number Solved  :5
+{ 3 , 3 , 8  }
+        Number Solved  :6
+{ 3 , 3 , 9  }
+        Number Solved  :5
+{ 3 , 3 , 10  }
+        Number Solved  :3
+{ 4 , 4 , 1  }
+        Number Solved  :4
+{ 4 , 4 , 2  }
+        Number Solved  :5
+{ 4 , 4 , 3  }
+        Number Solved  :6
+{ 4 , 4 , 5  }
+        Number Solved  :6
+{ 4 , 4 , 6  }
+        Number Solved  :4
+{ 4 , 4 , 7  }
+        Number Solved  :4
+{ 4 , 4 , 8  }
+        Number Solved  :4
+{ 4 , 4 , 9  }
+        Number Solved  :5
+{ 4 , 4 , 10  }
+        Number Solved  :4
+{ 5 , 5 , 1  }
+        Number Solved  :1
+{ 5 , 5 , 2  }
+        Number Solved  :4
+{ 5 , 5 , 3  }
+        Number Solved  :7
+{ 5 , 5 , 4  }
+        Number Solved  :4
+{ 5 , 5 , 6  }
+        Number Solved  :1
+{ 5 , 5 , 7  }
+        Number Solved  :1
+{ 5 , 5 , 8  }
+        Number Solved  :3
+{ 5 , 5 , 9  }
+        Number Solved  :2
+{ 5 , 5 , 10  }
+        Number Solved  :1
+{ 6 , 6 , 1  }
+        Number Solved  :0
+{ 6 , 6 , 2  }
+        Number Solved  :4
+{ 6 , 6 , 3  }
+        Number Solved  :7
+{ 6 , 6 , 4  }
+        Number Solved  :2
+{ 6 , 6 , 5  }
+        Number Solved  :1
+{ 6 , 6 , 7  }
+        Number Solved  :1
+{ 6 , 6 , 8  }
+        Number Solved  :1
+{ 6 , 6 , 9  }
+        Number Solved  :4
+{ 6 , 6 , 10  }
+        Number Solved  :2
+{ 7 , 7 , 1  }
+        Number Solved  :0
+{ 7 , 7 , 2  }
+        Number Solved  :6
+{ 7 , 7 , 3  }
+        Number Solved  :4
+{ 7 , 7 , 4  }
+        Number Solved  :2
+{ 7 , 7 , 5  }
+        Number Solved  :2
+{ 7 , 7 , 6  }
+        Number Solved  :1
+{ 7 , 7 , 8  }
+        Number Solved  :3
+{ 7 , 7 , 9  }
+        Number Solved  :4
+{ 7 , 7 , 10  }
+        Number Solved  :4
+{ 8 , 8 , 1  }
+        Number Solved  :0
+{ 8 , 8 , 2  }
+        Number Solved  :5
+{ 8 , 8 , 3  }
+        Number Solved  :4
+{ 8 , 8 , 4  }
+        Number Solved  :2
+{ 8 , 8 , 5  }
+        Number Solved  :3
+{ 8 , 8 , 6  }
+        Number Solved  :3
+{ 8 , 8 , 7  }
+        Number Solved  :3
+{ 8 , 8 , 9  }
+        Number Solved  :3
+{ 8 , 8 , 10  }
+        Number Solved  :4
+{ 9 , 9 , 1  }
+        Number Solved  :0
+{ 9 , 9 , 2  }
+        Number Solved  :6
+{ 9 , 9 , 3  }
+        Number Solved  :5
+{ 9 , 9 , 4  }
+        Number Solved  :3
+{ 9 , 9 , 5  }
+        Number Solved  :2
+{ 9 , 9 , 6  }
+        Number Solved  :4
+{ 9 , 9 , 7  }
+        Number Solved  :4
+{ 9 , 9 , 8  }
+        Number Solved  :3
+{ 9 , 9 , 10  }
+        Number Solved  :3
+{ 10 , 1 , 2  }
+        Number Solved  :3
+{ 10 , 1 , 3  }
+        Number Solved  :2
+{ 10 , 1 , 4  }
+        Number Solved  :0
+{ 10 , 1 , 5  }
+        Number Solved  :0
+{ 10 , 1 , 6  }
+        Number Solved  :0
+{ 10 , 1 , 7  }
+        Number Solved  :0
+{ 10 , 1 , 8  }
+        Number Solved  :0
+{ 10 , 1 , 9  }
+        Number Solved  :0
+{ 10 , 2 , 3  }
+        Number Solved  :10
+{ 10 , 2 , 4  }
+        Number Solved  :6
+{ 10 , 2 , 5  }
+        Number Solved  :5
+{ 10 , 2 , 6  }
+        Number Solved  :6
+{ 10 , 2 , 7  }
+        Number Solved  :8
+{ 10 , 2 , 8  }
+        Number Solved  :9
+{ 10 , 2 , 9  }
+        Number Solved  :10
+{ 10 , 3 , 4  }
+        Number Solved  :7
+{ 10 , 3 , 5  }
+        Number Solved  :9
+{ 10 , 3 , 6  }
+        Number Solved  :8
+{ 10 , 3 , 7  }
+        Number Solved  :5
+{ 10 , 3 , 8  }
+        Number Solved  :8
+{ 10 , 3 , 9  }
+        Number Solved  :7
+{ 10 , 4 , 5  }
+        Number Solved  :4
+{ 10 , 4 , 6  }
+        Number Solved  :2
+{ 10 , 4 , 7  }
+        Number Solved  :2
+{ 10 , 4 , 8  }
+        Number Solved  :3
+{ 10 , 4 , 9  }
+        Number Solved  :3
+{ 10 , 5 , 6  }
+        Number Solved  :3
+{ 10 , 5 , 7  }
+        Number Solved  :6
+{ 10 , 5 , 8  }
+        Number Solved  :4
+{ 10 , 5 , 9  }
+        Number Solved  :4
+{ 10 , 6 , 7  }
+        Number Solved  :6
+{ 10 , 6 , 8  }
+        Number Solved  :4
+{ 10 , 6 , 9  }
+        Number Solved  :4
+{ 10 , 7 , 8  }
+        Number Solved  :6
+{ 10 , 7 , 9  }
+        Number Solved  :5
+{ 10 , 8 , 9  }
+        Number Solved  :5
+{ 10 , 10 , 1  }
+        Number Solved  :2
+{ 10 , 10 , 2  }
+        Number Solved  :5
+{ 10 , 10 , 3  }
+        Number Solved  :4
+{ 10 , 10 , 4  }
+        Number Solved  :3
+{ 10 , 10 , 5  }
+        Number Solved  :3
+{ 10 , 10 , 6  }
+        Number Solved  :4
+{ 10 , 10 , 7  }
+        Number Solved  :4
+{ 10 , 10 , 8  }
+        Number Solved  :4
+{ 10 , 10 , 9  }
+        Number Solved  :4
+
+ The max targets solved is  14
