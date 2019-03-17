@@ -97,7 +97,7 @@ int main() {
 	int target = 0; //The number you are trying to solve for
 	int a = 0;
 	int b = 0;
-  int n=0;
+  int max=0;
 
   // Output file with the details 
 	ofstream outfile;
@@ -126,8 +126,13 @@ int main() {
 
       }
       out << "        Number solved :" << count << endl;
-		}
-	}
+       if ( count >= max){
+          max =count;
+        }
+      }
+      out <<endl;
+      out << " The max targets solved is  " << max << endl;
+  }
   outfile.close();
 	out.close();
 }
