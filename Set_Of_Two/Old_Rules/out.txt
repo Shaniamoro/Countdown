@@ -200,3 +200,5 @@
         Number solved :0
 { 10 , 10 }
         Number solved :0
+
+ The max targets solved is  2
