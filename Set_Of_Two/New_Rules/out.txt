@@ -108,3 +108,5 @@
         Number solved :0
 { 8 , 9 }
         Number solved :0
+
+ The max targets solved is  2
