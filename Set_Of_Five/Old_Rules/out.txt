@@ -1,0 +1,523 @@
+{ 1 , 2 , 3, 4 , 5  }
+        Number Solved  :28
+{ 1 , 2 , 3, 4 , 6  }
+        Number Solved  :37
+{ 1 , 2 , 3, 4 , 7  }
+        Number Solved  :55
+{ 1 , 2 , 3, 4 , 8  }
+        Number Solved  :66
+{ 1 , 2 , 3, 4 , 9  }
+        Number Solved  :87
+{ 1 , 2 , 3, 4 , 10  }
+        Number Solved  :95
+{ 1 , 2 , 3, 5 , 6  }
+        Number Solved  :61
+{ 1 , 2 , 3, 5 , 7  }
+        Number Solved  :70
+{ 1 , 2 , 3, 5 , 8  }
+        Number Solved  :95
+{ 1 , 2 , 3, 5 , 9  }
+        Number Solved  :101
+{ 1 , 2 , 3, 5 , 10  }
+        Number Solved  :126
+{ 1 , 2 , 3, 6 , 7  }
+        Number Solved  :99
+{ 1 , 2 , 3, 6 , 8  }
+        Number Solved  :118
+{ 1 , 2 , 3, 6 , 9  }
+        Number Solved  :132
+{ 1 , 2 , 3, 6 , 10  }
+        Number Solved  :157
+{ 1 , 2 , 3, 7 , 8  }
+        Number Solved  :145
+{ 1 , 2 , 3, 7 , 9  }
+        Number Solved  :151
+{ 1 , 2 , 3, 7 , 10  }
+        Number Solved  :181
+{ 1 , 2 , 3, 8 , 9  }
+        Number Solved  :189
+{ 1 , 2 , 3, 8 , 10  }
+        Number Solved  :205
+{ 1 , 2 , 3, 9 , 10  }
+        Number Solved  :233
+{ 1 , 2 , 4, 5 , 6  }
+        Number Solved  :92
+{ 1 , 2 , 4, 5 , 7  }
+        Number Solved  :115
+{ 1 , 2 , 4, 5 , 8  }
+        Number Solved  :127
+{ 1 , 2 , 4, 5 , 9  }
+        Number Solved  :151
+{ 1 , 2 , 4, 5 , 10  }
+        Number Solved  :153
+{ 1 , 2 , 4, 6 , 7  }
+        Number Solved  :136
+{ 1 , 2 , 4, 6 , 8  }
+        Number Solved  :136
+{ 1 , 2 , 4, 6 , 9  }
+        Number Solved  :173
+{ 1 , 2 , 4, 6 , 10  }
+        Number Solved  :181
+{ 1 , 2 , 4, 7 , 8  }
+        Number Solved  :176
+{ 1 , 2 , 4, 7 , 9  }
+        Number Solved  :201
+{ 1 , 2 , 4, 7 , 10  }
+        Number Solved  :221
+{ 1 , 2 , 4, 8 , 9  }
+        Number Solved  :219
+{ 1 , 2 , 4, 8 , 10  }
+        Number Solved  :219
+{ 1 , 2 , 4, 9 , 10  }
+        Number Solved  :273
+{ 1 , 2 , 5, 6 , 7  }
+        Number Solved  :168
+{ 1 , 2 , 5, 6 , 8  }
+        Number Solved  :193
+{ 1 , 2 , 5, 6 , 9  }
+        Number Solved  :225
+{ 1 , 2 , 5, 6 , 10  }
+        Number Solved  :217
+{ 1 , 2 , 5, 7 , 8  }
+        Number Solved  :217
+{ 1 , 2 , 5, 7 , 9  }
+        Number Solved  :216
+{ 1 , 2 , 5, 7 , 10  }
+        Number Solved  :247
+{ 1 , 2 , 5, 8 , 9  }
+        Number Solved  :266
+{ 1 , 2 , 5, 8 , 10  }
+        Number Solved  :273
+{ 1 , 2 , 5, 9 , 10  }
+        Number Solved  :282
+{ 1 , 2 , 6, 7 , 8  }
+        Number Solved  :241
+{ 1 , 2 , 6, 7 , 9  }
+        Number Solved  :271
+{ 1 , 2 , 6, 7 , 10  }
+        Number Solved  :291
+{ 1 , 2 , 6, 8 , 9  }
+        Number Solved  :289
+{ 1 , 2 , 6, 8 , 10  }
+        Number Solved  :293
+{ 1 , 2 , 6, 9 , 10  }
+        Number Solved  :308
+{ 1 , 2 , 7, 8 , 9  }
+        Number Solved  :276
+{ 1 , 2 , 7, 8 , 10  }
+        Number Solved  :308
+{ 1 , 2 , 7, 9 , 10  }
+        Number Solved  :328
+{ 1 , 2 , 8, 9 , 10  }
+        Number Solved  :318
+{ 1 , 3 , 4, 5 , 6  }
+        Number Solved  :120
+{ 1 , 3 , 4, 5 , 7  }
+        Number Solved  :132
+{ 1 , 3 , 4, 5 , 8  }
+        Number Solved  :146
+{ 1 , 3 , 4, 5 , 9  }
+        Number Solved  :176
+{ 1 , 3 , 4, 5 , 10  }
+        Number Solved  :196
+{ 1 , 3 , 4, 6 , 7  }
+        Number Solved  :168
+{ 1 , 3 , 4, 6 , 8  }
+        Number Solved  :193
+{ 1 , 3 , 4, 6 , 9  }
+        Number Solved  :202
+{ 1 , 3 , 4, 6 , 10  }
+        Number Solved  :234
+{ 1 , 3 , 4, 7 , 8  }
+        Number Solved  :197
+{ 1 , 3 , 4, 7 , 9  }
+        Number Solved  :234
+{ 1 , 3 , 4, 7 , 10  }
+        Number Solved  :243
+{ 1 , 3 , 4, 8 , 9  }
+        Number Solved  :242
+{ 1 , 3 , 4, 8 , 10  }
+        Number Solved  :273
+{ 1 , 3 , 4, 9 , 10  }
+        Number Solved  :277
+{ 1 , 3 , 5, 6 , 7  }
+        Number Solved  :196
+{ 1 , 3 , 5, 6 , 8  }
+        Number Solved  :222
+{ 1 , 3 , 5, 6 , 9  }
+        Number Solved  :230
+{ 1 , 3 , 5, 6 , 10  }
+        Number Solved  :258
+{ 1 , 3 , 5, 7 , 8  }
+        Number Solved  :239
+{ 1 , 3 , 5, 7 , 9  }
+        Number Solved  :267
+{ 1 , 3 , 5, 7 , 10  }
+        Number Solved  :262
+{ 1 , 3 , 5, 8 , 9  }
+        Number Solved  :268
+{ 1 , 3 , 5, 8 , 10  }
+        Number Solved  :283
+{ 1 , 3 , 5, 9 , 10  }
+        Number Solved  :311
+{ 1 , 3 , 6, 7 , 8  }
+        Number Solved  :262
+{ 1 , 3 , 6, 7 , 9  }
+        Number Solved  :255
+{ 1 , 3 , 6, 7 , 10  }
+        Number Solved  :309
+{ 1 , 3 , 6, 8 , 9  }
+        Number Solved  :276
+{ 1 , 3 , 6, 8 , 10  }
+        Number Solved  :342
+{ 1 , 3 , 6, 9 , 10  }
+        Number Solved  :327
+{ 1 , 3 , 7, 8 , 9  }
+        Number Solved  :326
+{ 1 , 3 , 7, 8 , 10  }
+        Number Solved  :358
+{ 1 , 3 , 7, 9 , 10  }
+        Number Solved  :369
+{ 1 , 3 , 8, 9 , 10  }
+        Number Solved  :405
+{ 1 , 4 , 5, 6 , 7  }
+        Number Solved  :228
+{ 1 , 4 , 5, 6 , 8  }
+        Number Solved  :245
+{ 1 , 4 , 5, 6 , 9  }
+        Number Solved  :230
+{ 1 , 4 , 5, 6 , 10  }
+        Number Solved  :228
+{ 1 , 4 , 5, 7 , 8  }
+        Number Solved  :239
+{ 1 , 4 , 5, 7 , 9  }
+        Number Solved  :269
+{ 1 , 4 , 5, 7 , 10  }
+        Number Solved  :293
+{ 1 , 4 , 5, 8 , 9  }
+        Number Solved  :286
+{ 1 , 4 , 5, 8 , 10  }
+        Number Solved  :308
+{ 1 , 4 , 5, 9 , 10  }
+        Number Solved  :303
+{ 1 , 4 , 6, 7 , 8  }
+        Number Solved  :277
+{ 1 , 4 , 6, 7 , 9  }
+        Number Solved  :306
+{ 1 , 4 , 6, 7 , 10  }
+        Number Solved  :324
+{ 1 , 4 , 6, 8 , 9  }
+        Number Solved  :327
+{ 1 , 4 , 6, 8 , 10  }
+        Number Solved  :319
+{ 1 , 4 , 6, 9 , 10  }
+        Number Solved  :362
+{ 1 , 4 , 7, 8 , 9  }
+        Number Solved  :319
+{ 1 , 4 , 7, 8 , 10  }
+        Number Solved  :386
+{ 1 , 4 , 7, 9 , 10  }
+        Number Solved  :400
+{ 1 , 4 , 8, 9 , 10  }
+        Number Solved  :363
+{ 1 , 5 , 6, 7 , 8  }
+        Number Solved  :294
+{ 1 , 5 , 6, 7 , 9  }
+        Number Solved  :327
+{ 1 , 5 , 6, 7 , 10  }
+        Number Solved  :353
+{ 1 , 5 , 6, 8 , 9  }
+        Number Solved  :372
+{ 1 , 5 , 6, 8 , 10  }
+        Number Solved  :371
+{ 1 , 5 , 6, 9 , 10  }
+        Number Solved  :357
+{ 1 , 5 , 7, 8 , 9  }
+        Number Solved  :384
+{ 1 , 5 , 7, 8 , 10  }
+        Number Solved  :411
+{ 1 , 5 , 7, 9 , 10  }
+        Number Solved  :416
+{ 1 , 5 , 8, 9 , 10  }
+        Number Solved  :374
+{ 1 , 6 , 7, 8 , 9  }
+        Number Solved  :356
+{ 1 , 6 , 7, 8 , 10  }
+        Number Solved  :400
+{ 1 , 6 , 7, 9 , 10  }
+        Number Solved  :442
+{ 1 , 6 , 8, 9 , 10  }
+        Number Solved  :425
+{ 1 , 7 , 8, 9 , 10  }
+        Number Solved  :342
+{ 2 , 3 , 4, 5 , 6  }
+        Number Solved  :134
+{ 2 , 3 , 4, 5 , 7  }
+        Number Solved  :180
+{ 2 , 3 , 4, 5 , 8  }
+        Number Solved  :182
+{ 2 , 3 , 4, 5 , 9  }
+        Number Solved  :224
+{ 2 , 3 , 4, 5 , 10  }
+        Number Solved  :219
+{ 2 , 3 , 4, 6 , 7  }
+        Number Solved  :185
+{ 2 , 3 , 4, 6 , 8  }
+        Number Solved  :179
+{ 2 , 3 , 4, 6 , 9  }
+        Number Solved  :209
+{ 2 , 3 , 4, 6 , 10  }
+        Number Solved  :229
+{ 2 , 3 , 4, 7 , 8  }
+        Number Solved  :244
+{ 2 , 3 , 4, 7 , 9  }
+        Number Solved  :293
+{ 2 , 3 , 4, 7 , 10  }
+        Number Solved  :289
+{ 2 , 3 , 4, 8 , 9  }
+        Number Solved  :295
+{ 2 , 3 , 4, 8 , 10  }
+        Number Solved  :281
+{ 2 , 3 , 4, 9 , 10  }
+        Number Solved  :334
+{ 2 , 3 , 5, 6 , 7  }
+        Number Solved  :233
+{ 2 , 3 , 5, 6 , 8  }
+        Number Solved  :248
+{ 2 , 3 , 5, 6 , 9  }
+        Number Solved  :254
+{ 2 , 3 , 5, 6 , 10  }
+        Number Solved  :279
+{ 2 , 3 , 5, 7 , 8  }
+        Number Solved  :293
+{ 2 , 3 , 5, 7 , 9  }
+        Number Solved  :306
+{ 2 , 3 , 5, 7 , 10  }
+        Number Solved  :307
+{ 2 , 3 , 5, 8 , 9  }
+        Number Solved  :333
+{ 2 , 3 , 5, 8 , 10  }
+        Number Solved  :325
+{ 2 , 3 , 5, 9 , 10  }
+        Number Solved  :359
+{ 2 , 3 , 6, 7 , 8  }
+        Number Solved  :306
+{ 2 , 3 , 6, 7 , 9  }
+        Number Solved  :289
+{ 2 , 3 , 6, 7 , 10  }
+        Number Solved  :339
+{ 2 , 3 , 6, 8 , 9  }
+        Number Solved  :297
+{ 2 , 3 , 6, 8 , 10  }
+        Number Solved  :329
+{ 2 , 3 , 6, 9 , 10  }
+        Number Solved  :334
+{ 2 , 3 , 7, 8 , 9  }
+        Number Solved  :402
+{ 2 , 3 , 7, 8 , 10  }
+        Number Solved  :401
+{ 2 , 3 , 7, 9 , 10  }
+        Number Solved  :439
+{ 2 , 3 , 8, 9 , 10  }
+        Number Solved  :451
+{ 2 , 4 , 5, 6 , 7  }
+        Number Solved  :250
+{ 2 , 4 , 5, 6 , 8  }
+        Number Solved  :224
+{ 2 , 4 , 5, 6 , 9  }
+        Number Solved  :281
+{ 2 , 4 , 5, 6 , 10  }
+        Number Solved  :246
+{ 2 , 4 , 5, 7 , 8  }
+        Number Solved  :288
+{ 2 , 4 , 5, 7 , 9  }
+        Number Solved  :345
+{ 2 , 4 , 5, 7 , 10  }
+        Number Solved  :326
+{ 2 , 4 , 5, 8 , 9  }
+        Number Solved  :336
+{ 2 , 4 , 5, 8 , 10  }
+        Number Solved  :288
+{ 2 , 4 , 5, 9 , 10  }
+        Number Solved  :366
+{ 2 , 4 , 6, 7 , 8  }
+        Number Solved  :255
+{ 2 , 4 , 6, 7 , 9  }
+        Number Solved  :337
+{ 2 , 4 , 6, 7 , 10  }
+        Number Solved  :312
+{ 2 , 4 , 6, 8 , 9  }
+        Number Solved  :298
+{ 2 , 4 , 6, 8 , 10  }
+        Number Solved  :267
+{ 2 , 4 , 6, 9 , 10  }
+        Number Solved  :345
+{ 2 , 4 , 7, 8 , 9  }
+        Number Solved  :391
+{ 2 , 4 , 7, 8 , 10  }
+        Number Solved  :334
+{ 2 , 4 , 7, 9 , 10  }
+        Number Solved  :454
+{ 2 , 4 , 8, 9 , 10  }
+        Number Solved  :367
+{ 2 , 5 , 6, 7 , 8  }
+        Number Solved  :368
+{ 2 , 5 , 6, 7 , 9  }
+        Number Solved  :402
+{ 2 , 5 , 6, 7 , 10  }
+        Number Solved  :410
+{ 2 , 5 , 6, 8 , 9  }
+        Number Solved  :426
+{ 2 , 5 , 6, 8 , 10  }
+        Number Solved  :367
+{ 2 , 5 , 6, 9 , 10  }
+        Number Solved  :436
+{ 2 , 5 , 7, 8 , 9  }
+        Number Solved  :449
+{ 2 , 5 , 7, 8 , 10  }
+        Number Solved  :441
+{ 2 , 5 , 7, 9 , 10  }
+        Number Solved  :461
+{ 2 , 5 , 8, 9 , 10  }
+        Number Solved  :471
+{ 2 , 6 , 7, 8 , 9  }
+        Number Solved  :469
+{ 2 , 6 , 7, 8 , 10  }
+        Number Solved  :422
+{ 2 , 6 , 7, 9 , 10  }
+        Number Solved  :502
+{ 2 , 6 , 8, 9 , 10  }
+        Number Solved  :441
+{ 2 , 7 , 8, 9 , 10  }
+        Number Solved  :525
+{ 3 , 4 , 5, 6 , 7  }
+        Number Solved  :303
+{ 3 , 4 , 5, 6 , 8  }
+        Number Solved  :319
+{ 3 , 4 , 5, 6 , 9  }
+        Number Solved  :313
+{ 3 , 4 , 5, 6 , 10  }
+        Number Solved  :329
+{ 3 , 4 , 5, 7 , 8  }
+        Number Solved  :320
+{ 3 , 4 , 5, 7 , 9  }
+        Number Solved  :372
+{ 3 , 4 , 5, 7 , 10  }
+        Number Solved  :370
+{ 3 , 4 , 5, 8 , 9  }
+        Number Solved  :360
+{ 3 , 4 , 5, 8 , 10  }
+        Number Solved  :388
+{ 3 , 4 , 5, 9 , 10  }
+        Number Solved  :410
+{ 3 , 4 , 6, 7 , 8  }
+        Number Solved  :336
+{ 3 , 4 , 6, 7 , 9  }
+        Number Solved  :343
+{ 3 , 4 , 6, 7 , 10  }
+        Number Solved  :395
+{ 3 , 4 , 6, 8 , 9  }
+        Number Solved  :352
+{ 3 , 4 , 6, 8 , 10  }
+        Number Solved  :355
+{ 3 , 4 , 6, 9 , 10  }
+        Number Solved  :390
+{ 3 , 4 , 7, 8 , 9  }
+        Number Solved  :414
+{ 3 , 4 , 7, 8 , 10  }
+        Number Solved  :438
+{ 3 , 4 , 7, 9 , 10  }
+        Number Solved  :494
+{ 3 , 4 , 8, 9 , 10  }
+        Number Solved  :487
+{ 3 , 5 , 6, 7 , 8  }
+        Number Solved  :414
+{ 3 , 5 , 6, 7 , 9  }
+        Number Solved  :369
+{ 3 , 5 , 6, 7 , 10  }
+        Number Solved  :426
+{ 3 , 5 , 6, 8 , 9  }
+        Number Solved  :382
+{ 3 , 5 , 6, 8 , 10  }
+        Number Solved  :440
+{ 3 , 5 , 6, 9 , 10  }
+        Number Solved  :414
+{ 3 , 5 , 7, 8 , 9  }
+        Number Solved  :469
+{ 3 , 5 , 7, 8 , 10  }
+        Number Solved  :469
+{ 3 , 5 , 7, 9 , 10  }
+        Number Solved  :486
+{ 3 , 5 , 8, 9 , 10  }
+        Number Solved  :494
+{ 3 , 6 , 7, 8 , 9  }
+        Number Solved  :433
+{ 3 , 6 , 7, 8 , 10  }
+        Number Solved  :495
+{ 3 , 6 , 7, 9 , 10  }
+        Number Solved  :463
+{ 3 , 6 , 8, 9 , 10  }
+        Number Solved  :454
+{ 3 , 7 , 8, 9 , 10  }
+        Number Solved  :563
+{ 4 , 5 , 6, 7 , 8  }
+        Number Solved  :410
+{ 4 , 5 , 6, 7 , 9  }
+        Number Solved  :442
+{ 4 , 5 , 6, 7 , 10  }
+        Number Solved  :424
+{ 4 , 5 , 6, 8 , 9  }
+        Number Solved  :450
+{ 4 , 5 , 6, 8 , 10  }
+        Number Solved  :380
+{ 4 , 5 , 6, 9 , 10  }
+        Number Solved  :397
+{ 4 , 5 , 7, 8 , 9  }
+        Number Solved  :437
+{ 4 , 5 , 7, 8 , 10  }
+        Number Solved  :487
+{ 4 , 5 , 7, 9 , 10  }
+        Number Solved  :515
+{ 4 , 5 , 8, 9 , 10  }
+        Number Solved  :462
+{ 4 , 6 , 7, 8 , 9  }
+        Number Solved  :498
+{ 4 , 6 , 7, 8 , 10  }
+        Number Solved  :413
+{ 4 , 6 , 7, 9 , 10  }
+        Number Solved  :537
+{ 4 , 6 , 8, 9 , 10  }
+        Number Solved  :448
+{ 4 , 7 , 8, 9 , 10  }
+        Number Solved  :572
+{ 5 , 6 , 7, 8 , 9  }
+        Number Solved  :539
+{ 5 , 6 , 7, 8 , 10  }
+        Number Solved  :544
+{ 5 , 6 , 7, 9 , 10  }
+        Number Solved  :564
+{ 5 , 6 , 8, 9 , 10  }
+        Number Solved  :556
+{ 5 , 7 , 8, 9 , 10  }
+        Number Solved  :593
+{ 6 , 7 , 8, 9 , 10  }
+        Number Solved  :591
+{ 1 , 2 , 3, 4 , 25  }
+        Number Solved  :251
+{ 1 , 2 , 3, 4 , 50  }
+        Number Solved  :395
+{ 1 , 2 , 3, 4 , 75  }
+        Number Solved  :426
+{ 1 , 2 , 3, 4 , 100  }
+        Number Solved  :414
+{ 1 , 2 , 3, 5 , 25  }
+        Number Solved  :289
+{ 1 , 2 , 3, 5 , 50  }
+        Number Solved  :428
+{ 1 , 2 , 3, 5 , 75  }
+        Number Solved  :452
+{ 1 , 2 , 3, 5 , 100  }
+        Number Solved  :459
+{ 1 , 2 , 3, 6 , 25  }
+        Number Solved  :340
+{ 1 , 2 , 3, 6 , 50  }
