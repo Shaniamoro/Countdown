@@ -881,9 +881,13 @@ void Coutdown::Driver1(){
 			if ( count >= max){
         max = count;
       }
+       if(count<= min){
+       min=count;
+      }
 		}
 	}
   out<< " The most targets solved is : "<< max << endl;
+  out<< " The least targets solved is : "<< min << endl;
 }
 
 void Coutdown::Driver2(){
@@ -910,9 +914,13 @@ void Coutdown::Driver2(){
 			if ( count >= max){
         max = count;
       }
+     if(count<= min){
+       min=count;
+      }
 		}
 	}
   out<< " The most targets solved is : "<< max << endl;
+  out<< " The least targets solved is : "<< min << endl;
 }
 void Coutdown::Driver3(){
 	ifstream infile;
@@ -932,15 +940,19 @@ void Coutdown::Driver3(){
 				}
 			 }
 			out << "Number solved :" << count << endl;
-      if( count == 898){
+      if( count == 899){
       	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
       }
 			if ( count >= max){
         max = count;
       }
+      if(count<= min){
+        min=count;
+      }
 		}
 	}
   out<< " The most targets solved is : "<< max << endl;
+  out<< " The least targets solved is : "<< min << endl;
 }
 void Coutdown::Driver4(){
 	ifstream infile;
@@ -960,15 +972,19 @@ void Coutdown::Driver4(){
 				}
 			 }
 			out << "Number solved :" << count << endl;
-      if( count == 898){
+      if( count == 899){
       	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
       }
 			if ( count >= max){
         max = count;
       }
+      if(count<= min){
+       min=count;
+      }
 		}
 	}
   out<< " The most targets solved is : "<< max << endl;
+  out<< " The least targets solved is : "<< min << endl;
 }
 void Coutdown::Driver5(){
 	ifstream infile;
@@ -988,7 +1004,7 @@ void Coutdown::Driver5(){
 				}
 			 }
 			out << "Number solved :" << count << endl;
-      if( count == 898){
+      if( count == 899){
       	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
       }
 			if ( count >= max){
@@ -997,6 +1013,7 @@ void Coutdown::Driver5(){
 		}
 	}
   out<< " The most targets solved is : "<< max << endl;
+  out<< " The least targets solved is : "<< min << endl;
 }
 int main() {
 	int a = 0;
@@ -1006,6 +1023,8 @@ int main() {
 	int e = 0;
 	int f = 0;
   int max=0; 
+  int min=899;
+  
 
   //Create an instance of the class
 	 Countdown C;
