@@ -5,16 +5,18 @@
 #include <thread>
 using namespace std;
 
+int a = 0;
+int b = 0;
+int c = 0;
+int d = 0;
+int e = 0;
+int f = 0;
+int max = 0;
+int min = 899;
 
-	// Output file with the details 
-	ofstream outfile;
-	outfile.open("output.txt");
-	// Output file with the number solved 
-	ofstream out;
-	out.open("out.txt");
-  // Creates a file with the generators 
-  ofstream output;
-	output.open("generator.txt");
+
+// Creates a file with the generators 
+ofstream output;
 
 class Countdown {
 	int T = 0; // target number 
@@ -38,11 +40,11 @@ public:
 	bool Compare(int, int, int, int, int);
 	bool Compare(int, int, int, int, int, int);
 	bool Compare(int, int, int, int, int, int, int);
-  void Driver1();
-  void Driver2();
-  void Driver3();
-  void Driver4();
-  void Driver5();
+	void Driver1();
+	void Driver2();
+	void Driver3();
+	void Driver4();
+	void Driver5();
 };
 Countdown::Countdown() {
 	// T = 10;
@@ -103,7 +105,7 @@ double Countdown::Exponentiation1(int a, int b) {
 		return a;
 	}
 	else if (a < 1000 && b < 1000) {
-		return pow(a,b);
+		return pow(a, b);
 	}
 	else {
 		return a;
@@ -115,7 +117,7 @@ double Countdown::Exponentiation2(int a, int b) {
 		return b;
 	}
 	else if (a < 1000 && b < 1000) {
-		return pow(b,a);
+		return pow(b, a);
 	}
 	else {
 		return b;
@@ -857,8 +859,16 @@ bool Countdown::Compare(int T, int a, int b, int c, int d, int e, int f) {
 	}
 }
 
-void Coutdown::Driver1(){
+void Driver1() {
+	Countdown C;
 	ifstream infile;
+	// Output file with the details 
+	ofstream outfile;
+	outfile.open("output1.txt");
+	// Output file with the number solved 
+	ofstream out;
+
+	out.open("out1.txt");
 	infile.open("input1.txt");
 	if (!infile) {
 		exit(1);
@@ -868,30 +878,38 @@ void Coutdown::Driver1(){
 			int count = 0;
 			outfile << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
 			out << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-			for(int x=101;x<=999; x++){
-				if( C.Compare(x,a,b,c,d,e,f) == true){
+			for (int x = 101; x <= 999; x++) {
+				if (C.Compare(x, a, b, c, d, e, f) == true) {
 					count++;
-					outfile<< "     This solves "<< x << endl;
+					outfile << "     This solves " << x << endl;
 				}
-			 }
+			}
 			out << "Number solved :" << count << endl;
-      if( count == 899){
-      	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-      }
-			if ( count >= max){
-        max = count;
-      }
-       if(count<= min){
-       min=count;
-      }
+			if (count == 899) {
+				output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
+			}
+			if (count >= max) {
+				max = count;
+			}
+			if (count <= min) {
+				min = count;
+			}
 		}
 	}
-  out<< " The most targets solved is : "<< max << endl;
-  out<< " The least targets solved is : "<< min << endl;
+	out << " The most targets solved is : " << max << endl;
+	out << " The least targets solved is : " << min << endl;
 }
 
-void Coutdown::Driver2(){
+void Driver2() {
+	Countdown C;
 	ifstream infile;
+	// Output file with the details 
+	ofstream outfile;
+	outfile.open("output2.txt");
+	// Output file with the number solved 
+	ofstream out;
+
+	out.open("out2.txt");
 	infile.open("input2.txt");
 	if (!infile) {
 		exit(1);
@@ -901,29 +919,38 @@ void Coutdown::Driver2(){
 			int count = 0;
 			outfile << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
 			out << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-			for(int x=101;x<=999; x++){
-				if( C.Compare(x,a,b,c,d,e,f) == true){
+			for (int x = 101; x <= 999; x++) {
+				if (C.Compare(x, a, b, c, d, e, f) == true) {
 					count++;
-					outfile<< "     This solves "<< x << endl;
+					outfile << "     This solves " << x << endl;
 				}
-			 }
+			}
 			out << "Number solved :" << count << endl;
-      if( count == 899){
-      	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-      }
-			if ( count >= max){
-        max = count;
-      }
-     if(count<= min){
-       min=count;
-      }
+			if (count == 899) {
+				output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
+			}
+			if (count >= max) {
+				max = count;
+			}
+			if (count <= min) {
+				min = count;
+			}
 		}
 	}
-  out<< " The most targets solved is : "<< max << endl;
-  out<< " The least targets solved is : "<< min << endl;
+	out << " The most targets solved is : " << max << endl;
+	out << " The least targets solved is : " << min << endl;
 }
-void Coutdown::Driver3(){
+
+void Driver3() {
+	Countdown C;
 	ifstream infile;
+	// Output file with the details 
+	ofstream outfile;
+	outfile.open("output3.txt");
+	// Output file with the number solved 
+	ofstream out;
+
+	out.open("out3.txt");
 	infile.open("input3.txt");
 	if (!infile) {
 		exit(1);
@@ -933,29 +960,37 @@ void Coutdown::Driver3(){
 			int count = 0;
 			outfile << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
 			out << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-			for(int x=101;x<=999; x++){
-				if( C.Compare(x,a,b,c,d,e,f) == true){
+			for (int x = 101; x <= 999; x++) {
+				if (C.Compare(x, a, b, c, d, e, f) == true) {
 					count++;
-					outfile<< "     This solves "<< x << endl;
+					outfile << "     This solves " << x << endl;
 				}
-			 }
+			}
 			out << "Number solved :" << count << endl;
-      if( count == 899){
-      	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-      }
-			if ( count >= max){
-        max = count;
-      }
-      if(count<= min){
-        min=count;
-      }
+			if (count == 899) {
+				output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
+			}
+			if (count >= max) {
+				max = count;
+			}
+			if (count <= min) {
+				min = count;
+			}
 		}
 	}
-  out<< " The most targets solved is : "<< max << endl;
-  out<< " The least targets solved is : "<< min << endl;
+	out << " The most targets solved is : " << max << endl;
+	out << " The least targets solved is : " << min << endl;
 }
-void Coutdown::Driver4(){
+void Driver4() {
+	Countdown C;
 	ifstream infile;
+	// Output file with the details 
+	ofstream outfile;
+	outfile.open("output4.txt");
+	// Output file with the number solved 
+	ofstream out;
+
+	out.open("out4.txt");
 	infile.open("input4.txt");
 	if (!infile) {
 		exit(1);
@@ -965,29 +1000,37 @@ void Coutdown::Driver4(){
 			int count = 0;
 			outfile << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
 			out << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-			for(int x=101;x<=999; x++){
-				if( C.Compare(x,a,b,c,d,e,f) == true){
+			for (int x = 101; x <= 999; x++) {
+				if (C.Compare(x, a, b, c, d, e, f) == true) {
 					count++;
-					outfile<< "     This solves "<< x << endl;
+					outfile << "     This solves " << x << endl;
 				}
-			 }
+			}
 			out << "Number solved :" << count << endl;
-      if( count == 899){
-      	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-      }
-			if ( count >= max){
-        max = count;
-      }
-      if(count<= min){
-       min=count;
-      }
+			if (count == 899) {
+				output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
+			}
+			if (count >= max) {
+				max = count;
+			}
+			if (count <= min) {
+				min = count;
+			}
 		}
 	}
-  out<< " The most targets solved is : "<< max << endl;
-  out<< " The least targets solved is : "<< min << endl;
+	out << " The most targets solved is : " << max << endl;
+	out << " The least targets solved is : " << min << endl;
 }
-void Coutdown::Driver5(){
+void Driver5() {
+	Countdown C;
 	ifstream infile;
+	// Output file with the details 
+	ofstream outfile;
+	outfile.open("output5.txt");
+	// Output file with the number solved 
+	ofstream out;
+
+	out.open("out5.txt");
 	infile.open("input5.txt");
 	if (!infile) {
 		exit(1);
@@ -997,49 +1040,42 @@ void Coutdown::Driver5(){
 			int count = 0;
 			outfile << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
 			out << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-			for(int x=101;x<=999; x++){
-				if( C.Compare(x,a,b,c,d,e,f) == true){
+			for (int x = 101; x <= 999; x++) {
+				if (C.Compare(x, a, b, c, d, e, f) == true) {
 					count++;
-					outfile<< "     This solves "<< x << endl;
+					outfile << "     This solves " << x << endl;
 				}
-			 }
+			}
 			out << "Number solved :" << count << endl;
-      if( count == 899){
-      	output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
-      }
-			if ( count >= max){
-        max = count;
-      }
+			if (count == 899) {
+				output << "{ " << a << " , " << b << " , " << c << ", " << d << " , " << e << " , " << f << "  }" << endl;
+			}
+			if (count >= max) {
+				max = count;
+			}
+			if (count <= min) {
+				min = count;
+			}
 		}
 	}
-  out<< " The most targets solved is : "<< max << endl;
-  out<< " The least targets solved is : "<< min << endl;
+	out << " The most targets solved is : " << max << endl;
+	out << " The least targets solved is : " << min << endl;
 }
+
+
 int main() {
-	int a = 0;
-	int b = 0;
-	int c = 0;
-	int d = 0;
-	int e = 0;
-	int f = 0;
-  int max=0; 
-  int min=899;
-  
+	output.open("generator.txt");
+	
 
-  //Create an instance of the class
-	 Countdown C;
+	std::thread t1(Driver1);
+	std::thread t2(Driver2);
+	std::thread t3(Driver3);
+	std::thread t4(Driver4);
+	std::thread t5(Driver5);
+	t1.join();
+	t2.join();
+	t3.join();
+	t4.join();
+	t5.join();
 
-  std::thread t1(driver1);
-  t1.join();
-  std::thread t2(driver2);
-  t2.join();
-  std::thread t3(driver3);
-  t3.join();
-  std::thread t4(driver4);
-  t4.join();
-  std::thread t5(driver5);
-  t5.join();
-
-	outfile.close();
-	out.close();
 }
