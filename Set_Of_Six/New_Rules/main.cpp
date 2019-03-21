@@ -16,7 +16,6 @@ int min = 899;
 
 
 // Creates a file with the generators 
-ofstream output;
 
 class Countdown {
 	int T = 0; // target number 
@@ -867,6 +866,9 @@ void Driver1() {
 	outfile.open("output1.txt");
 	// Output file with the number solved 
 	ofstream out;
+	ofstream output;
+	output.open("generator1.txt");
+
 
 	out.open("out1.txt");
 	infile.open("input1.txt");
@@ -908,6 +910,8 @@ void Driver2() {
 	outfile.open("output2.txt");
 	// Output file with the number solved 
 	ofstream out;
+	ofstream output;
+	output.open("generator2.txt");
 
 	out.open("out2.txt");
 	infile.open("input2.txt");
@@ -949,9 +953,11 @@ void Driver3() {
 	outfile.open("output3.txt");
 	// Output file with the number solved 
 	ofstream out;
-
 	out.open("out3.txt");
 	infile.open("input3.txt");
+	ofstream output;
+	output.open("generator3.txt");
+	
 	if (!infile) {
 		exit(1);
 	}
@@ -989,9 +995,10 @@ void Driver4() {
 	outfile.open("output4.txt");
 	// Output file with the number solved 
 	ofstream out;
-
 	out.open("out4.txt");
 	infile.open("input4.txt");
+	ofstream output;
+	output.open("generator4.txt");
 	if (!infile) {
 		exit(1);
 	}
@@ -1029,9 +1036,11 @@ void Driver5() {
 	outfile.open("output5.txt");
 	// Output file with the number solved 
 	ofstream out;
-
 	out.open("out5.txt");
 	infile.open("input5.txt");
+	ofstream output;
+	output.open("generator2.txt");
+	
 	if (!infile) {
 		exit(1);
 	}
@@ -1063,9 +1072,7 @@ void Driver5() {
 }
 
 
-int main() {
-	output.open("generator.txt");
-	
+int main() {	
 
 	std::thread t1(Driver1);
 	std::thread t2(Driver2);
